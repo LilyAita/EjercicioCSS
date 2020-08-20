@@ -1,6 +1,6 @@
 input[type='text']{
     width: 150px;
-    margin-top: 9px;
+    margin-bottom: 9px;
     background-color: greenyellow;
 }
 [for='visitante']{
